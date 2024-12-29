@@ -6,3 +6,7 @@ module.exports = function (eleventyConfig) {
       }
     };
   };
+
+module.exports.config = {
+  pathPrefix: "/test_portfolio",
+}

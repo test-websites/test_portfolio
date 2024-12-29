@@ -5,4 +5,4 @@ layout: base.njk
 
 This page is all about me and my blog!
 
-[Go to homepage](/)
+[Go to homepage]({{ '/' | url }})
